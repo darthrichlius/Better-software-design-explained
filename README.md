@@ -1,6 +1,6 @@
 # Engineering and Best Practices
 
-A collection of useful software engineering design patterns and actionable clean code guidance to build better software and systems from the first try.
+A collection of useful and **actionable** software engineering **principles**, **design patterns** and **clean code** guidance to build better software and systems from the start.
 
 **TL;DR**: [Jump to concepts](#domains)
 
@@ -27,7 +27,7 @@ The principles cover general best practices in programming like Design Patterns,
 - **Cloud Computing Principles and Best Practices**: Build company-grade application systems that scale.
 - **Artificial Intelligence**: Jump into the train of Artificial Intelligence and Machine Learning.
 - **Refactoring Excellence**: Best practices to refactor as a chief.
-- **Coding Principles**: Cheat sheet on important principles like OOP, Functional Programming, ...
+- **Coding Principles**: Important principles over Data Structures, Algorithms, OOP, Functional Programming, ...
 
 ## HOW-TO-CONSUME
 
